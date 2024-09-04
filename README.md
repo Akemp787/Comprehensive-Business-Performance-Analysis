@@ -1,4 +1,4 @@
-# Sales and Financial Performance Analysis Project
+# Comprehensive Business Performance Analysis
 
 ## Introduction
 This project aims to conduct a comprehensive analysis of sales and financial data for a business to support data-driven decision-making. By analyzing key metrics such as sales performance, pricing strategies, discount impacts, product performance, and financial forecasts, this project provides actionable insights to optimize business strategies.
