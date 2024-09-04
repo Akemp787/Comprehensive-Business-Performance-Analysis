@@ -1,14 +1,14 @@
 # Comprehensive Business Performance Analysis
 
 ## Introduction
-This project aims to conduct a comprehensive analysis of sales and financial data for a business to support data-driven decision-making. By analyzing key metrics such as sales performance, pricing strategies, discount impacts, product performance, and financial forecasts, this project provides actionable insights to optimize business strategies.
+This project aims to conduct a comprehensive analysis of sales and financial data for a business to support data-driven decision-making. By analyzing key metrics such as sales performance, pricing strategies, discount impacts, product performance, and profitability, this project provides actionable insights to optimize business strategies.
 
 ## Project Goals
 The main objectives of this project are:
 1. Analyze sales performance across different segments and countries.
 2. Identify key trends in pricing, costs, and profitability.
 3. Evaluate the impact of discount strategies on sales and profitability.
-4. Forecast future sales and profits to guide business planning.
+4. Analyze the profitability of products across different segments and countries to guide business planning.
 5. Provide actionable recommendations based on data insights.
 
 ## Methods
@@ -78,5 +78,5 @@ The project followed these steps to achieve its objectives:
 - **Scope of Analysis:** The analysis is based on historical data and may not capture future market dynamics or changes in business strategy.
 
 ## Conclusion
-This project provides a thorough analysis of sales and financial performance, offering valuable insights to support strategic decision-making. The findings highlight key areas for optimization in sales strategy, pricing, discount management, and product performance. By implementing the recommendations, the business can improve its profitability and sustain growth in the competitive market.
+This project provides a thorough analysis of sales and financial performance, offering valuable insights to support strategic decision-making. The findings highlight key areas for optimization in sales strategy, pricing, discount management, and product performance/profitability. By implementing the recommendations, the business can improve its profitability and sustain growth in the competitive market.
 
